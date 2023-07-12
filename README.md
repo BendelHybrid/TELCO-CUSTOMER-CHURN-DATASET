@@ -1,4 +1,4 @@
-(https://github.com/BendelHybrid/TELCO-CUSTOMER-CHURN-DATASET/assets/63473719/a749b51b-a868-4285-8228-38c6ac3b36db)https://github.com/BendelHybrid/TELCO-CUSTOMER-CHURN-DATASET/assets/63473719/b818fed7-4a27-47e9-83b1-16e816fe8bb2)# TELCO-CUSTOMER-CHURN-DATASET
+# TELCO-CUSTOMER-CHURN-DATASET
 An analysis of the Telco Customer Churn Dataset using Microsoft Excel with the intention of gaining insights on their services, contract analysis, and payment methods in relation to how it affects their churn rate(percentage of customers who leave the Telco company within a specific period). 
 # Project Name: TELCO-CUSTOMER-CHURN-DATASET
 
