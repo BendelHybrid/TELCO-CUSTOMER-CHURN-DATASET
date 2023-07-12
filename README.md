@@ -28,7 +28,7 @@ Based off this, my recommendations are:
 
 Payment Options: Since "Mailed Check" is the least preferred payment option, it may be beneficial to focus on promoting and incentivizing alternative payment methods such as online payments, automatic bank transfers, or digital wallets. This can help streamline the payment process for customers and potentially reduce churn.
 
-Month-to-Month Contract: Given that the Telco Month-to-Month contract has the highest churn amount, it might be worth investigating the reasons behind this trend. Consider analyzing the contract terms, pricing, and customer satisfaction levels for customers on this contract. Identifying pain points and improving the overall customer experience for month-to-month customers may help reduce churn.
+Month-to-Month Contract: Given that the Telco Month-to-Month contract has the highest churn amount, it might be worth investigating the reasons behind this trend. The Stakeholders should consider analyzing the contract terms, pricing, and customer satisfaction levels for customers on this contract. Identifying pain points and improving the overall customer experience for month-to-month customers may help reduce churn.
 
 Senior Citizens: With 20% of the customers being senior citizens, it's essential to understand their specific needs and preferences. Consider conducting targeted marketing campaigns or offering tailored services that cater to this customer segment. Providing clear communication, personalized support, and simplified processes can help retain senior customers and reduce churn.
 
