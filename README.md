@@ -1,45 +1,43 @@
-# TELCO-CUSTOMER-CHURN-DATASET
-An analysis of the Telco Customer Churn Dataset using Microsoft Excel with the intention of gaining insights on their services, contract analysis, and payment methods in relation to how it affects their churn rate(percentage of customers who leave the Telco company within a specific period). 
-# Project Name: TELCO-CUSTOMER-CHURN-DATASET
+# Telco Customer Churn Analysis
 
-# Dataset: [Telco-Customer-Churn ANALYSIS BY REGINA.xlsx](https://github.com/BendelHybrid/TELCO-CUSTOMER-CHURN-DATASET/files/12480158/Telco-Customer-Churn.ANALYSIS.BY.REGINA.xlsx)
+## Project Name: TELCO-CUSTOMER-CHURN-DATASET
 
+### Dataset: [Telco-Customer-Churn ANALYSIS BY REGINA.xlsx](https://github.com/BendelHybrid/TELCO-CUSTOMER-CHURN-DATASET/files/12480158/Telco-Customer-Churn.ANALYSIS.BY.REGINA.xlsx)
 
--------
-# Problem Objective: Predict behavior to retain customers by analyzing all relevant customer data with the aim of advising the Stakeholders on focused customer retention programs that can be developed.
+---
 
+### Problem Objective:
+The project involves an in-depth analysis of the Telco Customer Churn Dataset using Microsoft Excel. The objective is to gain insights into Telco's services, contract analysis, and payment methods and how they influence the churn rate (percentage of customers who leave the Telco company within a specific period).
 
+---
 
-------
-# Data Sourcing: Data was sourced from https://www.kaggle.com/datasets/blastchar/telco-customer-churn/download?datasetVersionNumber=1
+### Data Sourcing:
+The data for this analysis was sourced from [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/download?datasetVersionNumber=1), offering a comprehensive dataset related to Telco's customer churn.
 
+---
 
+### Data Transformation:
+The dataset underwent transformation using Power Query Editor, ensuring cleanliness and relevance, followed by effective visualization through Microsoft Excel.
 
---------
-# Data Transformation: The data was tranformed using Power Query Editor and visualised with Microsoft Excel.
+---
 
+### Key Findings and Recommendations:
+1. **Payment Preferences:** The analysis revealed that "Mailed Check" is the least preferred payment option. To mitigate this, focusing on promoting and incentivizing alternative payment methods such as online payments, automatic bank transfers, or digital wallets could streamline the payment process, reducing churn.
 
--------
-# Findings and Recommendation: The following are my findings derived anazying the dataset:
-1.  "Mailed Check" is the least preferred option for payment
-2. The Telco Month-to-Month contract has the highest churn amount
-3. 20% of their customers are senior citizens
-4. Customers with the shortest tenure had a higher churn rate as compared to those with the longest tenure.
-5. A great percentage of their customer bank is untapped due to the unavailability of INTERNET and PHONE SERVICE in their locations.
-Based off this, my recommendations are:
+2. **Contract Analysis:** The Telco Month-to-Month contract exhibited the highest churn amount. To address this, stakeholders should investigate the contract terms, pricing, and customer satisfaction levels, aiming to improve the overall customer experience and subsequently reduce churn.
 
-Payment Options: Since "Mailed Check" is the least preferred payment option, it may be beneficial to focus on promoting and incentivizing alternative payment methods such as online payments, automatic bank transfers, or digital wallets. This can help streamline the payment process for customers and potentially reduce churn.
+3. **Senior Citizen Segment:** With 20% of customers being senior citizens, tailoring marketing campaigns and services to meet their specific needs is crucial. Clear communication, personalized support, and simplified processes can help retain senior customers and mitigate churn.
 
-Month-to-Month Contract: Given that the Telco Month-to-Month contract has the highest churn amount, it might be worth investigating the reasons behind this trend. The Stakeholders should consider analyzing the contract terms, pricing, and customer satisfaction levels for customers on this contract. Identifying pain points and improving the overall customer experience for month-to-month customers may help reduce churn.
+4. **Tenure and Churn:** Customers with shorter tenures demonstrated a higher churn rate than those with longer tenures. This emphasizes the importance of building customer loyalty over time. Implementing customer retention strategies, like loyalty programs, special offers, or personalized recommendations, can boost engagement and reduce churn among new customers.
 
-Senior Citizens: With 20% of the customers being senior citizens, it's essential to understand their specific needs and preferences. Consider conducting targeted marketing campaigns or offering tailored services that cater to this customer segment. Providing clear communication, personalized support, and simplified processes can help retain senior customers and reduce churn.
+5. **Untapped Customer Potential:** The presence of untapped customer potential due to limited internet and phone service availability suggests exploring coverage area expansion or alternative connectivity solutions. This could involve investing in infrastructure development, partnering with other service providers, or offering satellite internet and wireless connectivity options to reach untapped customer segments.
 
-Tenure and Churn: The finding that customers with the shortest tenure have a higher churn rate compared to those with the longest tenure suggests the importance of building customer loyalty over time. Implementing customer retention strategies, such as loyalty programs, special offers, or personalized recommendations, can help increase customer engagement and reduce churn among new customers.
+---
 
-Untapped Customer Potential: If a significant percentage of the customer bank is untapped due to the unavailability of internet and phone service in certain locations, consider expanding the coverage area or exploring alternative connectivity solutions. This might involve investing in infrastructure development, partnering with other service providers, or offering alternative services like satellite internet or wireless connectivity options to reach those untapped customer segments.
-# Visualization
-![telco 1](https://github.com/BendelHybrid/TELCO-CUSTOMER-CHURN-DATASET/assets/63473719/abdee0bd-411b-4ec7-9598-28173c7b118b)
-![telco2](https://github.com/BendelHybrid/TELCO-CUSTOMER-CHURN-DATASET/assets/63473719/4f035f04-99ae-4035-a62b-6402156a4598)
+# Visualization:
+![Telco Visualization 1](https://github.com/BendelHybrid/TELCO-CUSTOMER-CHURN-DATASET/assets/63473719/abdee0bd-411b-4ec7-9598-28173c7b118b)
+![Telco Visualization 2](https://github.com/BendelHybrid/TELCO-CUSTOMER-CHURN-DATASET/assets/63473719/4f035f04-99ae-4035-a62b-6402156a4598)
 
+---
 
------
+This GitHub repository showcases an in-depth analysis of the Telco Customer Churn Dataset. It provides valuable insights and actionable recommendations to help stakeholders make informed decisions and optimize customer retention strategies. For any inquiries or collaborations, feel free to contact via GitHub or email.
