@@ -2,6 +2,8 @@
 An analysis of the Telco Customer Churn Dataset using Microsoft Excel with the intention of gaining insights on their services, contract analysis, and payment methods in relation to how it affects their churn rate(percentage of customers who leave the Telco company within a specific period). 
 # Project Name: TELCO-CUSTOMER-CHURN-DATASET
 
+# Dataset: [Telco-Customer-Churn ANALYSIS BY REGINA.xlsx](https://github.com/BendelHybrid/TELCO-CUSTOMER-CHURN-DATASET/files/12480158/Telco-Customer-Churn.ANALYSIS.BY.REGINA.xlsx)
+
 
 -------
 # Problem Objective: Predict behavior to retain customers by analyzing all relevant customer data with the aim of advising the Stakeholders on focused customer retention programs that can be developed.
