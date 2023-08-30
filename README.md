@@ -2,8 +2,6 @@
 
 ## Project Name: TELCO-CUSTOMER-CHURN-DATASET
 
-### Dataset: [Telco-Customer-Churn ANALYSIS BY REGINA.xlsx](https://github.com/BendelHybrid/TELCO-CUSTOMER-CHURN-DATASET/files/12480158/Telco-Customer-Churn.ANALYSIS.BY.REGINA.xlsx)
-
 ---
 
 ### Problem Objective:
@@ -40,4 +38,4 @@ The dataset underwent transformation using Power Query Editor, ensuring cleanlin
 
 ---
 
-This GitHub repository showcases an in-depth analysis of the Telco Customer Churn Dataset. It provides valuable insights and actionable recommendations to help stakeholders make informed decisions and optimize customer retention strategies. For any inquiries or collaborations, feel free to contact via GitHub or email.
+This GitHub repository showcases an in-depth analysis of the Telco Customer Churn Dataset. It provides valuable insights and actionable recommendations to help stakeholders make informed decisions and optimize customer retention strategies. For any inquiries or collaborations, feel free to contact via GitHub or email @ RUKEMEAGAREN@GMAIL.COM.
