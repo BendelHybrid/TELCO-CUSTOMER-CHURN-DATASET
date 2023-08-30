@@ -35,5 +35,9 @@ Senior Citizens: With 20% of the customers being senior citizens, it's essential
 Tenure and Churn: The finding that customers with the shortest tenure have a higher churn rate compared to those with the longest tenure suggests the importance of building customer loyalty over time. Implementing customer retention strategies, such as loyalty programs, special offers, or personalized recommendations, can help increase customer engagement and reduce churn among new customers.
 
 Untapped Customer Potential: If a significant percentage of the customer bank is untapped due to the unavailability of internet and phone service in certain locations, consider expanding the coverage area or exploring alternative connectivity solutions. This might involve investing in infrastructure development, partnering with other service providers, or offering alternative services like satellite internet or wireless connectivity options to reach those untapped customer segments.
+# Visualization
+![telco 1](https://github.com/BendelHybrid/TELCO-CUSTOMER-CHURN-DATASET/assets/63473719/abdee0bd-411b-4ec7-9598-28173c7b118b)
+![telco2](https://github.com/BendelHybrid/TELCO-CUSTOMER-CHURN-DATASET/assets/63473719/4f035f04-99ae-4035-a62b-6402156a4598)
+
 
 -----
