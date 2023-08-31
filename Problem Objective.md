@@ -1,0 +1,1 @@
+The project involves an in-depth analysis of the Telco Customer Churn Dataset using Microsoft Excel. The objective is to gain insights into Telco's services, contract analysis, and payment methods and how they influence the churn rate (percentage of customers who leave the Telco company within a specific period).
